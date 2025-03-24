@@ -1,0 +1,1 @@
+//definicje funkcji z algorytm.c

@@ -1,0 +1,1 @@
+// definicje funkcji input.h

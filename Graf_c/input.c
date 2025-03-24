@@ -1,0 +1,1 @@
+//funkcja czytajaca parametry wywolania od uzytkownika
