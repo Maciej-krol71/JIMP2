@@ -6,6 +6,16 @@
 
 //stworzenie macierzy i wypelnienie
 
+#include<stdio.h>
+#include "macierz.h"
+#include "plik.h"
+
+int main(){
+    char*plik="graf.csrrg";
+    Macierz*m=czytajPlik(plik);
+    wypiszMacierz(m);
+}
+
 //funkcja tworzenia struktury podgrafow
 
 //petla for
